@@ -3,7 +3,7 @@
 
 **Irshadaha2/Irshadaha2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
 
 •	Experienced QA Test Lead with over 16 years of expertise in manual and automation testing across diverse domains including Energy, Banking and e-Commerce projects.
 •	Proficient in leading and mentoring large test teams, driving quality assurance strategies and ensuring the delivery of high-quality software products.
